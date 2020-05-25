@@ -1,0 +1,33 @@
+.nav-wrapper{
+    height: 190px;
+    background-color: #11122b;
+    color: #cbcbcb;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 100px;
+    padding-top: 60px;
+    padding-right: 100px;
+    padding-bottom: 60px;
+    
+
+}
+.address{
+    color: red ;
+
+}
+h1{
+    margin-left: 450px;
+    text-decoration: underline;
+    color: pink;
+}
+body{
+    margin: 0px;
+}
+.hours-number{
+    
+}
+.left-column {
+    display: flex;
+    align-items: center;
+}
